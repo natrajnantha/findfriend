@@ -1,0 +1,30 @@
+body { 
+    background-image: url("../images/fresh_snow.png");
+    background-size: cover;
+}
+
+#hrstyle {
+    background-color: SKYBLUE;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 3px;
+}
+
+.contentbox {
+    padding: 28px 13px 3px 16px;
+    border: solid 2px #dddddd;
+    margin-top: 50px;
+}
+
+
+#btnAdd {
+    width: 100%;
+    font-size: 20px;
+    height: 50px;
+    display: inline-grid;
+    margin-left: 0px;
+    background-color: rgb(13, 27, 104);
+    margin-top:10px;
+}
